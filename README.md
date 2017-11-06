@@ -13,3 +13,6 @@ Travel Info System is a simple windows application which serves as a compact tra
 
 ### To view/edit the code
 * Open the solution file(.sln) of respective apps in visual studio (preferably 2017)
+
+### Link to the admin version: 
+    https://github.com/tusharbs/Travel-Info-System-Admin-Version-
